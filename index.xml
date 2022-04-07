@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaoyu Yang | 羊少宇</title>
+    <link>/</link>
+    <description>Recent content on Shaoyu Yang | 羊少宇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shaoyu Yang</copyright>
+    <lastBuildDate>Wed, 02 Mar 2022 09:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Award]  JSAE graduate research award received</title>
+      <link>/posts/jsae-award/</link>
+      <pubDate>Wed, 02 Mar 2022 09:00:00 +0000</pubDate>
+      
+      <guid>/posts/jsae-award/</guid>
+      <description>JSAE 大学院研究奨励賞
+I received the JSAE 大学院研究奨励賞 on 2022/03/02.</description>
+    </item>
+    
+    <item>
+      <title>[Paper] Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs was accepted in IV2021</title>
+      <link>/posts/iv2021/</link>
+      <pubDate>Tue, 27 Apr 2021 09:00:00 +0000</pubDate>
+      
+      <guid>/posts/iv2021/</guid>
+      <description>The 2021 IEEE Intelligent Vehicles Symposium (IV21) is a premier annual technical forum sponsored by the IEEE Intelligent Transportation Systems Society (ITSS), which will be held during 11-17 July 2021 online.
+The following contents will be presented.
+Driving behavior modeling (DBM) is widely used in the intelligent vehicle field to prevent accidents, which predicts actions that vehicles should take to optimize safe driving behaviors. According to some statistics, accidents easily happen at un-signalized intersections.</description>
+    </item>
+    
+    <item>
+      <title>[Presentation][paper] Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs was presented in SI2020</title>
+      <link>/posts/si2020/</link>
+      <pubDate>Wed, 16 Dec 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/posts/si2020/</guid>
+      <description>第21回　計測自動制御学会 システムインテグレーション部門講演会
+  Presentation information:
+ Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka    </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 24 Aug 2019 17:51:42 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am Shaoyu Yang, a PhD candidate at Tokyo Institute of Technology under the supervision of Masamichi Shimosaka in Shimosaka research group.
+I obtained a bachelor&amp;rsquo;s degree in engineering from SiChuan University in 2019, and a master&amp;rsquo;s degree in engineering from Tokyo Institute of Technology in 2021. Now, I am working toward the PhD degree by researching vehicle-related topics including driving behavior modeling, path planning, and so on.
+Now I am also working at Pipeline Security as an AI consultant.</description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description>International conference S. Yang, H. Yoshitake, M. Shino, and M. Shimosaka: Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs, 32nd IEEE Intelligent Vehicles Symposium, Online, July 2021.
+Japanese domestic conference 羊少宇，吉武宏，小竹元基，下坂正倫：Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs，第21回計測自動制御学会システムインテグレーション部門講演会（SI2020），3C3-04，オンライン，2020年12月．</description>
+    </item>
+    
+  </channel>
+</rss>

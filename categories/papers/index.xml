@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papers on Shaoyu Yang | 羊少宇</title>
+    <link>/categories/papers/</link>
+    <description>Recent content in papers on Shaoyu Yang | 羊少宇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shaoyu Yang</copyright>
+    <lastBuildDate>Tue, 27 Apr 2021 09:00:00 +0000</lastBuildDate><atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper] Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs was accepted in IV2021</title>
+      <link>/posts/iv2021/</link>
+      <pubDate>Tue, 27 Apr 2021 09:00:00 +0000</pubDate>
+      
+      <guid>/posts/iv2021/</guid>
+      <description>The 2021 IEEE Intelligent Vehicles Symposium (IV21) is a premier annual technical forum sponsored by the IEEE Intelligent Transportation Systems Society (ITSS), which will be held during 11-17 July 2021 online.
+The following contents will be presented.
+Driving behavior modeling (DBM) is widely used in the intelligent vehicle field to prevent accidents, which predicts actions that vehicles should take to optimize safe driving behaviors. According to some statistics, accidents easily happen at un-signalized intersections.</description>
+    </item>
+    
+    <item>
+      <title>[Presentation][paper] Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs was presented in SI2020</title>
+      <link>/posts/si2020/</link>
+      <pubDate>Wed, 16 Dec 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/posts/si2020/</guid>
+      <description>第21回　計測自動制御学会 システムインテグレーション部門講演会
+  Presentation information:
+ Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka    </description>
+    </item>
+    
+  </channel>
+</rss>
