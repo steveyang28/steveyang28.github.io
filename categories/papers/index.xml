@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Shaoyu Yang</copyright>
-    <lastBuildDate>Tue, 27 Apr 2021 09:00:00 +0000</lastBuildDate><atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 00:21:08 +0900</lastBuildDate><atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Presentation][paper] Sequential 2D Continuous Kinodynamic RRT for Driving Behavior at Un-signalized Intersections with Stop Lines was presented in RSJ2022</title>
+      <link>/posts/rsj2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:21:08 +0900</pubDate>
+      
+      <guid>/posts/rsj2022/</guid>
+      <description>第40回日本ロボット学会学術講演会（RSJ2022）
+  Presentation information:
+ Title: Sequential 2D Continuous Kinodynamic RRT for Driving Behavior at Un-signalized Intersections with Stop Lines Authors: Shaoyu Yang and Masamichi Shimosaka    自動車はよく，高速道路に比べて生活道路を走行する際に交通事故を起こすリスクが高いと言われています．先進運転支援システムは交通事故の回避を支援する技術として研究開発が進んでいます．システムの信頼性を更に向上させるため，コアとなる運転行動予測・運転行動モデリング技術の重要性が高まっています．
+既存研究では，逐次型MDPを用いて生活道路でより良い経路計画結果を得ることが提案されています[Yang+ IV”21]．しかし，これは離散空間でのみ議論されており、より一般的な走行環境では状態や行動の数が制限されています．本研究ではRRTという経路計画モデルを用い，連続空間において離散空間と同様の逐次的な方法で動作計画を計算します．また，異なるタスク分割パターンのもとで，各タスクフェーズにおける最終状態を固定する重要性を議論します．
+実験では信号のない交差点を通過する際に，一時停止のような適切な停止行動を行う熟練ドライバのデータを取得しました．本研究が提案する逐次的な最終状態が固定されるキノダイナミックRRT*が，様々なタスクの分割方法において最も高い性能とロバスト性を持つことが示されました．</description>
+    </item>
+    
     <item>
       <title>[Paper] Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs was accepted in IV2021</title>
       <link>/posts/iv2021/</link>
