@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Shaoyu Yang</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 09:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 23:17:28 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper] Improved Template-Based RRT for Efficient Kinodynamic Motion Planning will be presented in ROBOMECH2023</title>
+      <link>/posts/robomech2023/</link>
+      <pubDate>Wed, 19 Apr 2023 23:17:28 +0900</pubDate>
+      
+      <guid>/posts/robomech2023/</guid>
+      <description>-presentation information-
+Shaoyu Yang, Minglu Zhao, Masamichi Shimosaka. Improved Template-Based RRT for Efficient Kinodynamic Motion Planning. Robomech2023, Nagoya, 6 2023 (to appear).</description>
+    </item>
+    
     <item>
       <title>[Award] I received Research Fellowship for Young Scientists (JSPS Gakushin DC2)</title>
       <link>/posts/dc2/</link>
@@ -59,8 +69,8 @@ Driving behavior modeling (DBM) is widely used in the intelligent vehicle field 
       
       <guid>/posts/si2020/</guid>
       <description>第21回　計測自動制御学会 システムインテグレーション部門講演会
-  Presentation information:
- Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka    </description>
+Presentation information:
+Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka </description>
     </item>
     
     <item>
@@ -80,8 +90,9 @@ Now I am also working at Pipeline Security as an AI consultant.</description>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
       <guid>/publication/</guid>
-      <description>International conference S. Yang, H. Yoshitake, M. Shino, and M. Shimosaka: Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs, 32nd IEEE Intelligent Vehicles Symposium, Online, July 2021.
-Japanese domestic conference 羊少宇，吉武宏，小竹元基，下坂正倫：Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs，第21回計測自動制御学会システムインテグレーション部門講演会（SI2020），3C3-04，オンライン，2020年12月．</description>
+      <description>International conference S. Yang, H. Yoshitake, M. Shino, and M. Shimosaka. Smooth and Stopping Interval Aware Driving Behavior Prediction at Un-signalized Intersection with Inverse Reinforcement Learning on Sequential MDPs. 32nd IEEE Intelligent Vehicles Symposium, Online, July 2021.
+Japanese domestic conference 羊少宇，吉武宏，小竹元基，下坂正倫. Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs，第21回計測自動制御学会システムインテグレーション部門講演会（SI2020），3C3-04，オンライン，2020年12月．
+Shaoyu Yang, and Masamichi Shimosaka. Sequential 2D Continuous Kinodynamic RRT for Driving Behavior at Un-signalized Intersections with Stop Lines.</description>
     </item>
     
   </channel>

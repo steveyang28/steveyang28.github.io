@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Shaoyu Yang</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:21:08 +0900</lastBuildDate><atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 23:17:28 +0900</lastBuildDate><atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper] Improved Template-Based RRT for Efficient Kinodynamic Motion Planning will be presented in ROBOMECH2023</title>
+      <link>/posts/robomech2023/</link>
+      <pubDate>Wed, 19 Apr 2023 23:17:28 +0900</pubDate>
+      
+      <guid>/posts/robomech2023/</guid>
+      <description>-presentation information-
+Shaoyu Yang, Minglu Zhao, Masamichi Shimosaka. Improved Template-Based RRT for Efficient Kinodynamic Motion Planning. Robomech2023, Nagoya, 6 2023 (to appear).</description>
+    </item>
+    
     <item>
       <title>[Presentation][paper] Sequential 2D Continuous Kinodynamic RRT for Driving Behavior at Un-signalized Intersections with Stop Lines was presented in RSJ2022</title>
       <link>/posts/rsj2022/</link>
@@ -40,8 +50,8 @@ Driving behavior modeling (DBM) is widely used in the intelligent vehicle field 
       
       <guid>/posts/si2020/</guid>
       <description>第21回　計測自動制御学会 システムインテグレーション部門講演会
-  Presentation information:
- Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka    </description>
+Presentation information:
+Title: Driving Behavior Modeling at Unsignalized Intersection with Inverse Reinforcement Learning on Sequential MDPs Authors: Shaoyu Yang, Hiroshi Yoshitake, Motoki Shino, and Masamichi Shimosaka </description>
     </item>
     
   </channel>
